@@ -54,21 +54,21 @@ The goal of this repository is to develop interdiction models for Human Traffick
      - Demand point
      - Capacity 2-4
 3. USAvsMendezHernandez (Farms/Bars, International Transitions)
-  - Suppliers
-    - Supply, transport, and connection
-    - Capacity 3-4
-  - Pimps
-    - Supply and use stash houses
-    - Capacity 3-4
-  - Ring Leaders
-    - Recieve, distribute, and Coordinate
-    - Capacity 3-8
-  - Local Pimps
-    - Recieve, distribute, retain
-    - Capacity 1-5
-  - Drivers
-    - transport
-    - Capacity 2
-  - Destinations
-    - Demand points
-    - Capacity 2-3
+    - Suppliers
+      - Supply, transport, and connection
+      - Capacity 3-4
+    - Pimps
+      - Supply and use stash houses
+      - Capacity 3-4
+    - Ring Leaders
+      - Recieve, distribute, and Coordinate
+      - Capacity 3-8
+    - Local Pimps
+      - Recieve, distribute, retain
+      - Capacity 1-5
+    - Drivers
+      - transport
+      - Capacity 2
+    - Destinations
+      - Demand points
+      - Capacity 2-3
