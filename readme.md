@@ -4,7 +4,7 @@ The goal of this repository is to develop interdiction models for Human Traffick
 
 ![](./images/USAvsJohnson.png)
 
-2. USA vs USAvsFlorez
+2. USA vs Florez
 
 ![](./images/USAvsFlorez.png)
 
